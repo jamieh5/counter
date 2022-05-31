@@ -1,0 +1,25 @@
+.counter-heading {
+    text-align: center;
+    font-size: 36px;
+}
+.counter-number {
+    text-align: center;
+    font-size: 28px;
+}
+.btn-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button {
+    background-color: white;
+    border: black 1px solid;
+    margin: 25px;
+    border-radius: 5%;
+    width: 75px;
+    height: 25px;
+}
+
+button:hover {
+    background-color: lightgrey;
+}
